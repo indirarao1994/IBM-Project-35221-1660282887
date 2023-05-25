@@ -34,7 +34,9 @@ SREEJITH KUMAR
 NAVEEN        
 GOGUL      
 ```          
-<a href="https://chettinad.swm5.repl.co" class="button icon search">DUMPSTER_our_website</a>
+<a href="https://dumpster-beta.vercel.app" class="button icon search">DUMPSTER_our_website</a>
+
+<a href="https://dumpster-beta.vercel.app/dashboard" class="button icon search">DUMPSTER_Dashboard</a>
 
 
 # **📜PROJECT DESCRIPTION:**          
